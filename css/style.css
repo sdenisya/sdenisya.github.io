@@ -9761,7 +9761,7 @@ textarea.form-control {
   margin-top: 30%;
   background: radial-gradient(#ffffff, rgb(93, 92, 220, 0.1)) !important;
   border-radius: 50px 50px 15px 15px !important;
-  backdrop-filter: blur(20px) !important;
+  backdrop-filter: blur(15px) !important;
   border: none !important;
 }
 .modal-header {
